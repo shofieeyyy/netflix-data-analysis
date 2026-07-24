@@ -51,7 +51,6 @@ netflix-data-analysis/
 ├── netflix_data_analysis.ipynb   # Notebook analisis lengkap
 ├── netflix_titles.csv            # Dataset
 ├── README.md                     # Dokumentasi proyek
-└── images/                       # Screenshot visualisasi (opsional)
 ```
 
 ## 🚀 Cara Menjalankan
